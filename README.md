@@ -4,8 +4,6 @@
 🎯 I’m interested in Frontend & Backend side.  
 📚 Currently exploring **MySQL**, **C**, and **JavaScript**.  
 
----
-
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

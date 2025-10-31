@@ -1,4 +1,4 @@
-# Hi, I'm Athar 👋✨
+# Hi, I'm Athar 👋
 
 💻 I'm learning **Web Development** using PHP, Laravel, and JavaScript.  
 🎯 I’m interested in Frontend & Backend side.  
